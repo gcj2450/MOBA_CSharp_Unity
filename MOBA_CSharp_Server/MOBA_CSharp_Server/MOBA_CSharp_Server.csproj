@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>MOBA_CSharp_Server</RootNamespace>
     <AssemblyName>MOBA_CSharp_Server</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
